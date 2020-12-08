@@ -9,9 +9,9 @@
 </head>
 <body>
     <div class="calo">
-        <img src="rysunek.png" alt="">
-        <img src="kawa.png" alt="">
-        <img src="matematyka.png" alt="">
+        <img src="rysunek.png" alt="" height="400px" width="600px">
+        <img src="kawa.png" alt="" height="400px" width="600px">
+        <img src="matematyka.png" alt="" height="200px" width="600px">
     </div>
 </body>
 </html>
